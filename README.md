@@ -1,2 +1,2 @@
 # CISB60
- My CISB60 Work
+Machine and Deep Learning in Business
